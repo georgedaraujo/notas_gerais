@@ -4,7 +4,8 @@ Este é um repositório criado com objetivo primeiro de **treinar a  escrita mar
 
 Criado no `Sublime Text 3` e com package `MarkdownLivePreview`.
 
-George Araujo.2019
+George Araujo.2019  
+
 Envie-me um [email](mailto:georgefpa@gmail.com)
 
 
