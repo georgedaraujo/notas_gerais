@@ -6,19 +6,16 @@
 ###### Título 6
 
 ## Quebra de Linha
-******************
 Para se quebrar uma linha em markdown,  
 basta colocar dois espaços no local desejado.
 
 ## Estilos de ênfase
-********************
 **texto em negrito** ou __texto em negrito__  
 *texto em itálico* ou _texto em itálico_  
 ~~riscado~~
 > Ser ou não ser, eis a questão.
 
 ## Lista Não-Ordenada
-***********************
 + Item 1
 + Item 2
 + Item 3
@@ -26,14 +23,11 @@ basta colocar dois espaços no local desejado.
 	- Subitem 2
 
 ## Lista Ordenada
-******************
-
 1. Item A
 2. Item B
 3. Item C
 
 ## Links
-
 Forma um, [texto] e (link): [texto do link](https://google.com.br)  
 *********
 Forma dois, texto alternativo: [texto do link](https://google.com.br "Busca do Google") 
@@ -55,7 +49,29 @@ Forma dois, texto alternativo: [texto do link](https://google.com.br "Busca do G
 |George | 32     | Cientista de Dados|
 |Tatiane| 21     | Auxiliar Administrativo|
 
+# Destacando trechos de código
+Digite seu `usuário` e `senha` corretamente para  
+efetuar o `login()`.
 
+#### com dois TABS:
+
+		// login.js
+
+		const username = 'georgearaujo';
+		const password = 'secret';
+
+		login(username, password);
+
+#### com três crases e highlights da linguagem:
+
+```javascript
+ // login.js  
+
+const username = 'georgearaujo';  
+
+const password = 'secret';  
+login(username, password);  
+```
 
 
 
