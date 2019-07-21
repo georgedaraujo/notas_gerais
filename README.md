@@ -1,4 +1,4 @@
-#Anotações em geral feitas em Markdown
+# Anotações em geral feitas em Markdown
 
 Este é um repositório criado com objetivo primeiro de **treinar a  escrita markdown.** Porém, há também minhas anotações retiradas de leituras, listas, etc. Quase um caderno de tarefas.
 
