@@ -73,6 +73,10 @@ const password = 'secret';
 login(username, password);  
 ```
 
+## Emojis
+:smile:  
+:heart_eyes:  
+:boom: 
 
 
 
