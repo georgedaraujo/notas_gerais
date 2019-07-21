@@ -37,20 +37,23 @@ basta colocar dois espaços no local desejado.
 Forma um, [texto] e (link): [texto do link](https://google.com.br)  
 *********
 Forma dois, texto alternativo: [texto do link](https://google.com.br "Busca do Google") 
-*********
-Forma três, com variável: 
-[Google]: https://google.com.br
-[Google][]
-
 
 ## Imagens
 ### Imagem normal
 ![Markdown](markdown.png)  
-### Imagem via variável
-![Markdown][image]
-[image]: markdown.png  
 ### Imagem com link
 [![Markdown](markdown.png)](https://daringfireball.net/projects/markdown/syntax#link)
+
+## Tabelas
+| NOME | IDADE |
+|------|-------|
+|George| 32    |
+
+### Alinhamento nas tabelas:
+| NOME  | IDADE  | PROFISSÃO  |
+|-------|:------:|-----------:|
+|George | 32     | Cientista de Dados|
+|Tatiane| 21     | Auxiliar Administrativo|
 
 
 
