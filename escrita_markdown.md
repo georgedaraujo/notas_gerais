@@ -38,9 +38,9 @@ Forma um, [texto] e (link): [texto do link](https://google.com.br)
 *********
 Forma dois, texto alternativo: [texto do link](https://google.com.br "Busca do Google") 
 *********
-Forma três, com variável:
-[site-url]: (https://google.com.br)
-[clique aqui] [site-url]
+Forma três, com variável: 
+[Google]: https://google.com.br
+[Google][]
 
 
 
