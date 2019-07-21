@@ -43,6 +43,19 @@ Forma três, com variável:
 [Google][]
 
 
+## Imagens
+### Imagem normal
+![Markdown](markdown.png)  
+### Imagem via variável
+![Markdown][image]
+[image]: markdown.png  
+### Imagem com link
+[![Markdown](markdown.png)](https://daringfireball.net/projects/markdown/syntax#link)
+
+
+
+
+
 
 
 
